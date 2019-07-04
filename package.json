@@ -1,0 +1,13 @@
+{
+  "name": "node-rest-auth",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.9.2",
+    "express": "^4.16.4",
+    "kerberos": "0.0.23",
+    "mongoose": "^5.6.3"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
+}
